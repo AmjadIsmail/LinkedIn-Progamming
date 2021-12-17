@@ -1,0 +1,7 @@
+D:\Github projects\LinkedIn-Progamming\Hacker_Rank\HackerRank-Problems\bin\Debug\HackerRank-Problems.exe.config
+D:\Github projects\LinkedIn-Progamming\Hacker_Rank\HackerRank-Problems\bin\Debug\HackerRank-Problems.exe
+D:\Github projects\LinkedIn-Progamming\Hacker_Rank\HackerRank-Problems\bin\Debug\HackerRank-Problems.pdb
+D:\Github projects\LinkedIn-Progamming\Hacker_Rank\HackerRank-Problems\obj\Debug\HackerRank-Problems.csproj.AssemblyReference.cache
+D:\Github projects\LinkedIn-Progamming\Hacker_Rank\HackerRank-Problems\obj\Debug\HackerRank-Problems.csproj.CoreCompileInputs.cache
+D:\Github projects\LinkedIn-Progamming\Hacker_Rank\HackerRank-Problems\obj\Debug\HackerRank-Problems.exe
+D:\Github projects\LinkedIn-Progamming\Hacker_Rank\HackerRank-Problems\obj\Debug\HackerRank-Problems.pdb
